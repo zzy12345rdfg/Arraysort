@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\Lenovo\source\repos\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\Lenovo\source\repos\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\Lenovo\source\repos\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\Lenovo\source\repos\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
+C:\Users\Lenovo\Desktop\数组排序\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\Lenovo\Desktop\数组排序\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\Lenovo\Desktop\数组排序\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\Lenovo\Desktop\数组排序\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\数组排序\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\Lenovo\Desktop\数组排序\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb

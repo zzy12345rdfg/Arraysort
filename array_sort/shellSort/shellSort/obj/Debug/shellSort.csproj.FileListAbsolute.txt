@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\shellSort\shellSort\bin\Debug\shellSort.exe.config
+C:\Users\Lenovo\source\repos\shellSort\shellSort\bin\Debug\shellSort.exe
+C:\Users\Lenovo\source\repos\shellSort\shellSort\bin\Debug\shellSort.pdb
+C:\Users\Lenovo\source\repos\shellSort\shellSort\obj\Debug\shellSort.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\shellSort\shellSort\obj\Debug\shellSort.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\shellSort\shellSort\obj\Debug\shellSort.exe
+C:\Users\Lenovo\source\repos\shellSort\shellSort\obj\Debug\shellSort.pdb
