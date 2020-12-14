@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\Lenovo\source\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\Lenovo\source\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\Lenovo\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\Lenovo\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb

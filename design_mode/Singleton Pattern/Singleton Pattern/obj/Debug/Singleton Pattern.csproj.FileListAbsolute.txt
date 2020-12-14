@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Singleton Pattern\Singleton Pattern\bin\Debug\Singleton Pattern.exe.config
+C:\Users\Lenovo\source\repos\Singleton Pattern\Singleton Pattern\bin\Debug\Singleton Pattern.exe
+C:\Users\Lenovo\source\repos\Singleton Pattern\Singleton Pattern\bin\Debug\Singleton Pattern.pdb
+C:\Users\Lenovo\source\repos\Singleton Pattern\Singleton Pattern\obj\Debug\Singleton Pattern.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Singleton Pattern\Singleton Pattern\obj\Debug\Singleton Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Singleton Pattern\Singleton Pattern\obj\Debug\Singleton Pattern.exe
+C:\Users\Lenovo\source\repos\Singleton Pattern\Singleton Pattern\obj\Debug\Singleton Pattern.pdb
