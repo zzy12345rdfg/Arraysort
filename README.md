@@ -1,4 +1,4 @@
 # Arraysort
 arrayordesign分支上是在控制台输出和使用markdown语法写的数组排序和设计模式
 
-游戏工程文件等在“parkour”库里
+游戏工程文件等在“parkour”库
